@@ -22,10 +22,10 @@ key_gui_hide	:=	"Home"
 key_exit	    := 	"End"
 key_hold	    :=	"XButton1"
 
-pixel_box	:=	5
+pixel_box	:=	6
 pixel_sens	:=	50
 pixel_color	:=	0xFEFE40
-tap_time	:=	150
+tap_time	:=	0.0000000000000000000000001
 
 
 ;Credits: Robin0248?
